@@ -469,7 +469,7 @@ export class DuckAI {
       "claude-haiku-4-5",
       "mistral-small-2603",
       "tinfoil/gpt-oss-120b",
-      "gemma4:31b"
+      "tinfoil/gemma4:31b"
     ];
   }
 }
