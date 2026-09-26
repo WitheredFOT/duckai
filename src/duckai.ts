@@ -464,9 +464,8 @@ export class DuckAI {
 
   getAvailableModels(): string[] {
     return [
-      "gpt-5.4-luna",
+      "gpt-5.6-luna",
       "gpt-5.4-mini",
-      "gpt-5-mini",
       "claude-haiku-4-5",
       "mistral-small-2603",
       "tinfoil/gpt-oss-120b",
